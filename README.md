@@ -1,7 +1,6 @@
-# A Systematic Review of Comparable, Available, and Reproducible Wrist-Accelerometer-Only Human Activity Recognition
+# Towards Available, Open Source, and Reproducible Human Activity Recognition (HAR): A Systematic Review of Wrist-accelerometer-only HAR Literature
 
-This repository serves as the supplemental material for the IMWUT '26 paper entititled "A Systematic Review of Comparable, Available, and Reproducible
-Wrist-Accelerometer-Only Human Activity Recognition." If you use our data or the results of our paper, please [cite us](#citation) and [email us](mailto:potter.v@northeastern.edu). 
+This repository is the supplemental material for the IMWUT '26 paper entitled "Towards Available, Open Source, and Reproducible Human Activity Recognition (HAR): A Systematic Review of Wrist-accelerometer-only HAR Literature." If you use our data or the results of our paper, please [cite us](#citation) and [email us](mailto:potter.v@northeastern.edu). 
 
 ## Repository Structure 
 
@@ -15,7 +14,7 @@ Wrist-Accelerometer-Only Human Activity Recognition." If you use our data or the
 
 `PRISMA_2020_checklist.pdf`: Our completed PRISMA 2020 checklist for this review.
 
-`all_screening_results.xlsx`: Excel sheet containing the results of our intitial search and screening process.
+`all_screening_results.xlsx`: Excel sheet containing the results of our initial search and screening process.
 
 ## Citation 
 If you use this research, please cite the following paper:
